@@ -11,3 +11,4 @@
    
 #### Purpose of .gitignore file
      The .gitignore file will be used in each project to let Git know which files it should ignore. It will also help to identify files in each project that are local to the project, that git shouldn't push to github
+
