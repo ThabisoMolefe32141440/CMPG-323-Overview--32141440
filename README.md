@@ -5,9 +5,8 @@
   The "CMPG323 Project 3 " repository will be used to for the creation of project 3 which will be about Standards and Patterns
   The "CMPG323 Project 4 " repository will be used to for the creation of project 4 which will be about Testing & RPA
   The "CMPG323 Project 5 " repository will be used to for the creation of project 5 which will be about Reporting and Monitoring
- ### Project and Repsitory structure
- 
-    ![ProjectStructure](https://user-images.githubusercontent.com/110165029/184352750-1ad56df6-e39c-4e7e-bacf-62330dfdbe80.PNG)
+ Project and Repsitory structure
+ ![ProjectStructure](https://user-images.githubusercontent.com/110165029/184352750-1ad56df6-e39c-4e7e-bacf-62330dfdbe80.PNG)
 #### Branching strategy to be used
      The Github flow  will be used in each project as  one of the brancing strategy.The Github flow will help me to manage/monitor each project.
    
