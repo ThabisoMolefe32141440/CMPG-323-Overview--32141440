@@ -7,7 +7,7 @@
   The "CMPG323 Project 5 " repository will be used to for the creation of project 5 which will be about Reporting and Monitoring
  ### Project and Repsitory structure
     See the below structure diagram.
-    ![ProjectStructure](https://user-images.githubusercontent.com/110165029/184350347-6c6521eb-61e6-4d3c-8ae3-ac68f20371a2.PNG)
+    ![ProjectStructure](https://user-images.githubusercontent.com/110165029/184352750-1ad56df6-e39c-4e7e-bacf-62330dfdbe80.PNG)
 #### Branching strategy to be used
      The Github flow  will be used in each project as  one of the brancing strategy.The Github flow will help me to manage/monitor each project.
    
