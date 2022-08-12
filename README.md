@@ -7,7 +7,7 @@
   The "CMPG323 Project 5 " repository will be used to for the creation of project 5 which will be about Reporting and Monitoring
   
 ### Branching strategy to be used
-     The Github flow  will be used in each project as  one of the brancing strategy.
+     The Github flow  will be used in each project as  one of the brancing strategy.The Github flow will help me to manage/monitor each project.
    
 #### Purpose of .gitignore file
      The .gitignore file will be used in each project to let Git know which files it should ignore. It will also help to identify files in each project that are local to the project, that git shouldn't push to github
